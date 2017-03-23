@@ -1,0 +1,26 @@
+{
+  "name": "Rain_Drops",
+  "version": "1.0.0",
+  "description": "A simple game built with Phaser.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "phaserjs",
+    "game"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "electron-builder": "^16.2.0",
+    "electron-prebuilt": "^1.4.13"
+  }
+}
